@@ -1,5 +1,5 @@
 ## HuaaApp
-Alzheimer's Awareness and Support App Built with MIT App Inventor. Developed by Annie Bao and Isaac Zhang in 2024.
+Alzheimer's Awareness and Support App Built with MIT App Inventor. Developed by Annie Bao and Isaac Zhang in 2024-2025.
 
 Note: Since it is built in MIT App Inventor, raw code cannot be shown on github.
 
